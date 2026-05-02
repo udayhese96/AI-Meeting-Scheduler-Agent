@@ -59,7 +59,7 @@ Automates end-to-end meeting scheduling with intelligent validation, slot detect
 ```
 AI-Meeting-Scheduler-Agent/
 │── Images/
-│   ├── Chat1.png
+│   ├── Chat.png
 │   ├── Chat2.png
 │   ├── Chat3.png
 │   ├── FlowDiagram.png
@@ -73,7 +73,7 @@ AI-Meeting-Scheduler-Agent/
 ## 🖼️ Screenshots
 
 ### Chat Interaction
-![Chat1](Images/Chat1.png)
+![Chat](Images/Chat.png)
 ![Chat2](Images/Chat2.png)
 ![Chat3](Images/Chat3.png)
 
